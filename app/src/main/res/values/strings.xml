@@ -3,4 +3,5 @@
     <string name="fire">Fire</string>
     <string name="cancel">Cancel</string>
     <string name="ok">@android:string/ok</string>
+    <string name="REMIND_ME_ALERT_ACTION">io.thbaymet.remindme.services.action.ALERT_ACTION</string>
 </resources>
